@@ -1,0 +1,58 @@
+# Bundled custom themes for linkding-share.
+# Users can add their own to ~/.config/linkding-share/themes.toml.
+
+[[theme]]
+name = "newsprint"
+dark = false
+primary = "#1f2933"
+secondary = "#52606d"
+accent = "#b91c1c"
+warning = "#b45309"
+error = "#9b1c1c"
+success = "#15803d"
+background = "#f5f0e6"
+surface = "#ede5d3"
+panel = "#e2d9c3"
+foreground = "#1f2933"
+
+[[theme]]
+name = "broadsheet"
+dark = true
+primary = "#cdb380"
+secondary = "#a98e57"
+accent = "#e76f51"
+warning = "#e9c46a"
+error = "#e63946"
+success = "#588157"
+background = "#1a1410"
+surface = "#231a13"
+panel = "#2d211a"
+foreground = "#f1e3c8"
+
+[[theme]]
+name = "wire-service"
+dark = true
+primary = "#4cc9f0"
+secondary = "#4895ef"
+accent = "#f72585"
+warning = "#f9c74f"
+error = "#ef476f"
+success = "#06d6a0"
+background = "#0b1020"
+surface = "#13182b"
+panel = "#1a2138"
+foreground = "#e0e6f0"
+
+[[theme]]
+name = "teletype"
+dark = true
+primary = "#33ff33"
+secondary = "#22cc22"
+accent = "#ffaa00"
+warning = "#ffaa00"
+error = "#ff4444"
+success = "#33ff33"
+background = "#000000"
+surface = "#0a0a0a"
+panel = "#141414"
+foreground = "#33ff33"
